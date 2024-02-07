@@ -1,0 +1,5 @@
+h1 {
+    color: blueviolet; /* Sets the font size for h1 */
+    font-family: Verdana; /* Sets the text color for h1 */
+    text-align: center; /* Centers the text horizontally */
+}
